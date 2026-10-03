@@ -6,7 +6,7 @@ typ: aufgaben
 ## Jetzt
 - [ ] [[Zählerschrank-Check]]: **Bis 09.10. 5 Gespräche mit Kollegen** (Problem, Häufigkeit, Preis, Mittesten) → [[Gesprächsleitfaden]], Vorlage `90 Vorlagen/Gespräch` *(Vorrang laut [[2026-10-02 Ideen-Check]])*
 - [ ] [[Zählerschrank-Check]]: 30.09., 20 Uhr – Anthropic-API-Schlüssel (Guthaben, Ausgabenlimit) + `APP_CODE` in Supabase eintragen, dann Verbindungstest mit Claude
-- [ ] [[Zählerschrank-Check]]: Flyer fertigmachen: WhatsApp-Nummer + QR-Code eintragen, dann beim Großhändler auslegen → [[Direktansprache]]
+- [ ] [[Zählerschrank-Check]]: WhatsApp Business einrichten (Profil, Begrüßung, Schnellantworten, Labels), Flyer-QR testen, drucken, beim Großhändler auslegen → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Gruppen-Text in 1–2 Elektriker-Gruppen posten → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: `zaehlerklar.de` per DENIC prüfen und sichern, DPMA-Markenrecherche, Handle @zaehlerklar → [[ADR-0006 Produktname Zählerklar]]
 - [ ] [[Zählerschrank-Check]]: Edge Function neu einspielen (Härtung vom 03.10., zusammen mit den Secrets) → [[App & Technik]]
