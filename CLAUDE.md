@@ -28,6 +28,11 @@ Methode: `40 Wissen/Ideen-System.md` (Phasen, Score, Regeln), dazu [[Geldmodelle
 
 Code gehört in den Code-Ordner, Wissen und Entscheidungen hierher. Ändert sich der Stand einer App, dann ihre Projektnotiz und die Zeile in `Ideen-Pipeline.md` aktualisieren.
 
+## Nachtschicht (Cloud, läuft auch bei ausgeschaltetem PC)
+Cloud-Routine „Nachtschicht Zählerschrank-Check“ (https://claude.ai/code/routines/trig_01R9g53R3KssifJtkaDd41qQ), täglich 0:00 UTC (= 2:00 Sommerzeit / 1:00 Winterzeit). Sie arbeitet auf GitHub (`Reacher23012/zaehlerschrank-check`, `Reacher23012/unternehmen-vault`), erledigt höchstens eine Aufgabe ohne Zugangsdaten und liefert Pull Requests auf Zweigen `nachtschicht/…`. Sie merged nie.
+- Morgens: PRs prüfen und mergen, dann hier `git pull` (oder das Obsidian-Plugin „Git“ macht es). Erst nach dem Merge Aufgaben abhaken.
+- Lokale Änderungen am Vault committen und pushen, damit die Nachtschicht den aktuellen Stand sieht.
+
 ## Regeln
 - **Immer aktuell:** Jede Sitzung, die etwas an einer Idee oder App ändert (Code, Entscheidung, Gespräch, Zahl), aktualisiert noch in derselben Sitzung Projektnotiz, Ideen-Pipeline und Aufgaben. Das gilt auch für Arbeit, die außerhalb dieses Ordners passiert (z. B. im Code-Ordner). Zusätzlich gleicht die Routine „Stand-Abgleich“ täglich um 21:30 nach, und freitags um 18:00 läuft `/wochenrueckblick`.
 - Zu Beginn bekommst du per Hook „Jetzt“, die letzte Sitzung und den Inbox-Stand. Ohne andere Anweisung: die wichtigste Sache vorschlagen – mit Begründung.
