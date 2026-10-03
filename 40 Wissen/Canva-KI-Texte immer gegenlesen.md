@@ -11,4 +11,6 @@ Canvas Design-Generator ergänzt Fachinhalte eigenmächtig. Beim ersten Einsatz 
 
 **Regel:** Jeden generierten Post vor dem Speichern/Posten Seite für Seite gegen die Vorlage lesen. Korrigieren geht direkt über die Canva-Bearbeitung; erfundene Blöcke lieber mit echten Inhalten füllen, als das Layout zu zerstören.
 
+**03.10.2026:** Zwei Canva-Flyer-Entwürfe waren unbrauchbar: Unsinnstext, „Maßgeblich ist immer das Regelwerk“ statt „die TAB“ und ein **echt aussehender QR-Code mit Fantasienummer**. Druckvorlagen mit festem Text deshalb selbst bauen (HTML → PDF, `zaehlerschrank-check/marketing/`).
+
 Fachliche Posts sind nur so glaubwürdig wie ihr schwächstes Detail – Elektriker merken jeden Fehler.

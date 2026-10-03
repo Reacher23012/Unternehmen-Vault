@@ -16,6 +16,12 @@ Ab sofort, ohne Landingpage → [[ADR-0005 Direktansprache vor Instagram]]. Ziel
 | Handwerkskammern Dortmund + Südwestfalen | E-Mail mit Flyer → [[Anschreiben Handwerkskammern]] | Entwurf fertig, Platzhalter offen |
 | WhatsApp-/Facebook-Gruppen | Text unten, gern zusammen mit dem Rätsel-Post aus [[Instagram]] | — |
 
+## Druckvorlagen
+Alle in `Anhänge/Zählerklar Marketing/`, Quellen in `zaehlerschrank-check/marketing/` (`flyer-a5.html`, `flyer-bauen.mjs`). Jeder QR-Code hat einen eigenen Vorschlagstext, so ist die Quelle in WhatsApp erkennbar („…Flyer…“, „…Checkliste…“, „…Aushang…“).
+- **Flyer A5:** Theke beim Großhändler
+- **Checkliste A5** „Vor dem Wallbox-Angebot: 5 Punkte“: zum Mitnehmen, Inhalt aus R01, R04, R06, R12, R15
+- **Aushang A4 mit 8 Abreißstreifen:** schwarzes Brett beim Großhändler oder in der Innung
+
 ## Flyer A5
 - PDF: `Anhänge/Zaehlerklar-Flyer-A5.pdf` · Quelle: `zaehlerschrank-check/marketing/flyer-a5.html`
 - Texte 1:1 aus der Vorgabe, nichts dazuerfunden. Canva-KI hat in zwei Entwürfen u. a. „Maßgeblich ist immer das feste Regelwerk“ (falsch, maßgeblich ist die TAB), Unsinnstext und einen **echt aussehenden QR-Code mit Fantasienummer** eingebaut. Deshalb ist der Flyer als eigene Druckvorlage gebaut → [[Canva-KI-Texte immer gegenlesen]].

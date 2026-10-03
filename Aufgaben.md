@@ -17,6 +17,9 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: 20 reale Schränke mit der App erfassen
 
 ## Als Nächstes
+- [ ] [[Zählerschrank-Check]]: QR-Codes der 3 Druckvorlagen mit dem Handy testen, dann drucken → [[Direktansprache]]
+- [ ] [[Zählerschrank-Check]]: Instagram vorbereiten: Impressum-Link (hängt an [[Rechtliches]]), Canva-Posts 1–3 auf „Zählerklar“ umstellen, Posts 1–10 fachlich gegenlesen → [[Instagram-Posts 1–10]]
+- [ ] [[Zählerschrank-Check]]: Eigene Fotos echter Zählerschränke für Rätsel-Posts sammeln (ohne Adresse, Namen, Zählernummer)
 - [ ] [[Zählerschrank-Check]]: Anschreiben an HWK Dortmund + Südwestfalen ausfüllen und senden (nach Namensprüfung) → [[Anschreiben Handwerkskammern]]
 - [ ] [[Zählerschrank-Check]]: Innung Kreis Soest anfragen (5 Min. Versammlung oder Rundschreiben) → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Instagram-Konto @zaehlerklar anlegen, Posts auf „Zählerklar“ umstellen → [[Instagram]] (Phase 2, nach Landingpage)
@@ -34,6 +37,7 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: Login statt Zugangscode, bevor Kollegen testen
 
 ## Erledigt
+- [x] [[Zählerschrank-Check]]: Checkliste A5, Aushang A4, Instagram-Posts 4–10 gebaut, Bildtexte 1–10, Anschreiben HWK Dortmund + Südwestfalen, WhatsApp-Business-Texte (03.10.2026)
 - [x] [[Zählerschrank-Check]]: Name „Zählerklar“ festgelegt, Marketing auf Direktansprache umgestellt (ADR-0005/0006), Flyer-Entwurf A5 + WhatsApp-Texte (03.10.2026)
 - [x] [[Ideen-System]] aufgebaut: Phasen, Score, [[Geldmodelle für KI-Ideen]], Vorlagen, `/idee` + `/wochenrueckblick`; Zählerschrank-Check mit 18/25 bewertet (03.10.2026)
 - [x] [[Zählerschrank-Check]]: Sicherheits-Check (best-practices): Schriften selbst gehostet, Netlify-Header/CSP, Edge Function gehärtet; Gesprächsleitfaden erstellt (03.10.2026)

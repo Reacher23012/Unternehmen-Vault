@@ -5,6 +5,8 @@ stand: 2026-09-29
 ---
 # Instagram
 
+**Posts 1–10 mit Bildtexten und Plan:** [[Instagram-Posts 1–10]] (03.10.2026). Produktname jetzt **Zählerklar** → [[ADR-0006 Produktname Zählerklar]].
+
 **Rolle:** erster Marketing-Kanal → [[ADR-0002 Marketing zuerst über Instagram]]. Jeder Post führt auf die Warteliste („Link in Bio“) → [[Landingpage & Warteliste]].
 
 ## Profil
