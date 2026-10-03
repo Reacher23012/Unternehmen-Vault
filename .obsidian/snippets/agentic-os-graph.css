@@ -1,0 +1,30 @@
+/* Agentic-OS-Look für die Graphansicht – dunkel, mit leuchtenden Farben je Ordner.
+   Die Farben je Ordner stehen in .obsidian/graph.json (Gruppen), hier nur Hintergrund und Grundfarben. */
+.workspace-leaf-content[data-type="graph"] .view-content,
+.workspace-leaf-content[data-type="localgraph"] .view-content {
+  background:
+    radial-gradient(900px 500px at 15% -10%, #1b1640 0%, transparent 60%),
+    radial-gradient(700px 420px at 100% 0%, #10263a 0%, transparent 55%),
+    #0a0b0f;
+}
+.graph-view.color-fill            { color: #8a91a4; }
+.graph-view.color-fill-focused    { color: #8b7bff; }
+.graph-view.color-fill-highlight  { color: #f43f5e; }
+.graph-view.color-fill-tag        { color: #22d3ee; }
+.graph-view.color-fill-attachment { color: #5b6275; }
+.graph-view.color-fill-unresolved { color: #3a3f4d; }
+.graph-view.color-circle          { color: #8b7bff; }
+.graph-view.color-line            { color: #2a2f3d; }
+.graph-view.color-line-highlight  { color: #8b7bff; }
+.graph-view.color-text            { color: #eef0f6; }
+.graph-view.color-arrow           { color: #8a91a4; }
+
+/* Einstellungsfeld im Graph wie die Glas-Karten im Dashboard */
+.workspace-leaf-content[data-type="graph"] .graph-controls {
+  background: linear-gradient(165deg, #1a1d26cc 0%, #121419cc 100%);
+  border: 1px solid #ffffff14;
+  border-radius: 14px;
+  box-shadow: 0 12px 32px #00000080;
+  backdrop-filter: blur(12px);
+  color: #eef0f6;
+}
