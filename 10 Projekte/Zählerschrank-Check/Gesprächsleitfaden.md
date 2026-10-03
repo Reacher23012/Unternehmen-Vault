@@ -35,7 +35,7 @@ Dauer 10–15 Min., gern am Telefon oder beim Großhändler. Pro Gespräch eine 
 - Hast du schon mal etwas probiert, um das schneller zu machen? (Checkliste, Excel, Schulung, Software) → Wenn nein: Warum nicht?
 
 ### 5. Zahlungsbereitschaft → Kriterium 2
-Erst jetzt die App zeigen (Demo-Link oder Handy), 2 Minuten.
+Erst jetzt die App zeigen, 2 Minuten, **auf deinem eigenen Handy**. Den Demo-Link nicht weitergeben: Das Regelwerk liegt noch in der App und ließe sich kopieren (→ Schutzkonzept der Nachtschicht).
 - Was davon hätte dir beim letzten Fall geholfen – und was nicht?
 - „Das soll um die 30 € im Monat kosten. Passt das für euch, ist das zu viel, oder wäre es dir mehr wert?“ → Antwort wörtlich notieren.
 - **Verbindlich machen:** „Magst du die nächsten 4 Wochen mittesten und mir bei 2–3 Schränken sagen, ob das Ergebnis stimmt?“ Ein Ja hier zählt mehr als ein Ja zum Preis.
@@ -59,4 +59,4 @@ Erst jetzt die App zeigen (Demo-Link oder Handy), 2 Minuten.
 | 4 | | | | | | | | |
 | 5 | | | | | | | | |
 
-**Stand:** 0 von 15 Gesprächen · Problem monatlich 0 (Ziel ≥ 10) · Zahlt/testet 0 (Ziel ≥ 5)
+**Stand:** 0 von 15 Gesprächen (3 am 04.10. vereinbart) · Problem monatlich 0 (Ziel ≥ 10) · Zahlt/testet 0 (Ziel ≥ 5)

@@ -13,6 +13,7 @@ Ab sofort, ohne Landingpage → [[ADR-0005 Direktansprache vor Instagram]]. Ziel
 | Eigene Kollegen | Gespräche nach [[Gesprächsleitfaden]], am Ende „Kennst du noch jemanden?“ | 0 / 5 bis 09.10. |
 | Großhändler-Theke | Flyer A5 auslegen, Mitarbeiter an der Theke kurz einweihen | Flyer fertig (mit Nummer + QR), QR vor dem Druck testen |
 | Innung Kreis Soest | 5 Minuten in der Versammlung oder Hinweis im Rundschreiben | noch anfragen |
+| Handwerkskammern Dortmund + Südwestfalen | E-Mail mit Flyer → [[Anschreiben Handwerkskammern]] | Entwurf fertig, Platzhalter offen |
 | WhatsApp-/Facebook-Gruppen | Text unten, gern zusammen mit dem Rätsel-Post aus [[Instagram]] | — |
 
 ## Flyer A5
