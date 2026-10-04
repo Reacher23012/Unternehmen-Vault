@@ -46,6 +46,9 @@ Nach [[Ideen-System]] · Geldmodelle: [[Geldmodelle für KI-Ideen]]
 ## Go/No-Go
 10 von 15 Kollegen haben das Problem mind. monatlich · 5 zahlen ≥ 30 €/Monat · Trefferquote ≥ 85 % bei 20 Fällen · 100 Wartelisten-Einträge in 4 Wochen. **3 von 4 → MVP bauen**, sonst Wissen als Schulung/Checkliste verkaufen.
 
+## Schutz von Idee und App (04.10.2026)
+Analyse in [[Schutz von Idee und App]]: Idee nicht schützbar; **Regelwerk R01–R26 liegt im Browser-Bundle** (`regeln.json` via `regelwerk.ts`) – vor öffentlichem Deployment serverseitig verlegen. Arbeitgeber-Frage (Wettbewerb/Urheberrecht) ist offen für den Anwalt. Neue Aufgaben in [[Aufgaben]].
+
 ## Nächster Schritt
 **03.10.:** 3 Gespräche mit Kollegen für den 04.10. vereinbart → Ergebnisse je Gespräch als Notiz aus `90 Vorlagen/Gespräch`, Zeile in der Auswertung im [[Gesprächsleitfaden]].
 
