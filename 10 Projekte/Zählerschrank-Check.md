@@ -31,6 +31,17 @@ Ein Elektriker fotografiert einen Zählerschrank, und die App sagt ihm, welche M
 | Instagram (Phase 2) | 3 Posts in Canva, Bildtexte fertig, Konto fehlt → [[Instagram]] |
 | Validierung | 0 Fälle, 0 Gespräche, 0 Einträge → [[Validierung & Go-No-Go]], Leitfaden steht → [[Gesprächsleitfaden]] |
 
+## Weitere Zielgruppen (Hypothesen, 04.10.2026)
+Idee: nicht nur Elektriker, sondern auch **Hauseigentümer** und **SHK-Betriebe**. Der Kunde weiß vorher, was am Kasten ansteht, und spricht den Elektriker mit einer Mängelliste an.
+
+| Variante | Für | Gegen | Test |
+|---|---|---|---|
+| **A: Kunde liefert Fotos für den Elektriker** (Elektriker schickt Link, Kunde fotografiert nach Anleitung, Elektriker bekommt vorausgefüllten Check) | spart die erste Anfahrt; der Elektriker bleibt zahlender Kunde; passt zum bisherigen Modell | Kunde darf nur von außen fotografieren (Tür auf, keine Abdeckung ab), viele Punkte bleiben „offen“ | Frage in den Gesprächen: „Wie oft fährst du nur zum Gucken raus?“ |
+| **B: SHK-Betriebe (Wärmepumpe)** | lösen das Problem aus, kennen den Zählerschrank nicht, verlieren Aufträge durch Überraschungskosten; evtl. höhere Zahlungsbereitschaft | anderer Zugang, nicht mein Netzwerk | 2 Gespräche mit SHK-Betrieben |
+| **C: Hauseigentümer direkt (B2C)** | großer Markt, Schmerz „Überraschung im Angebot“ ist echt | Laie kann Bauart, Verdrahtung, SPD, Trennstelle nicht sicher bestimmen; **Abdeckungen abnehmen ist für Laien lebensgefährlich und verboten**; Einmalnutzung, geringe Zahlungsbereitschaft, teure Kundengewinnung; Haftung bei falscher „Mängelliste“; Elektriker muss trotzdem vor Ort prüfen (Errichterverantwortung) | erst nach Go; Geldmodell eher Vermittlung an Elektriker (Lead) als Verkauf |
+
+**Einordnung:** Kein Richtungswechsel vor den ersten Gesprächen. A und B werden als Zusatzfragen mitvalidiert, C bleibt Hypothese. Im B2C-Fall nie „Mängelliste“, sondern „Ersteinschätzung, Prüfung durch Elektrofachkraft nötig“.
+
 ## Score (vorläufig, 03.10.2026)
 | Kriterium | Punkte | Begründung |
 |---|---|---|

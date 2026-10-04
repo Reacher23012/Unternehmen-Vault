@@ -24,6 +24,7 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: Innung Kreis Soest anfragen (5 Min. Versammlung oder Rundschreiben) → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Instagram-Konto @zaehlerklar anlegen, Posts auf „Zählerklar“ umstellen → [[Instagram]] (Phase 2, nach Landingpage)
 - [ ] [[Zählerschrank-Check]]: Name „Zählerklar“ in App, Landingpage, Impressum übernehmen; Warteliste-Quelle per `?quelle=` statt fest „instagram“
+- [ ] [[Zählerschrank-Check]]: 2 Gespräche mit SHK-Betrieben (Wärmepumpe): Wie oft bremst der Zählerschrank den Auftrag, wer klärt das heute, was wäre es wert? → [[Zählerschrank-Check#Weitere Zielgruppen (Hypothesen, 04.10.2026)]]
 - [ ] [[Zählerschrank-Check]]: Restliche 10 Gespräche mit Kollegen (insgesamt 15) → [[Validierung & Go-No-Go]]
 - [ ] [[Zählerschrank-Check]]: Offene Regeln R07, R09, R11, R19 mit Unterlagen belegen
 - [ ] [[Zählerschrank-Check]]: Neue Westnetz-TAB nach BDEW-Musterwortlaut 2026 beobachten

@@ -28,6 +28,8 @@ Dauer 10–15 Min., gern am Telefon oder beim Großhändler. Pro Gespräch eine 
 - Erzähl mal vom letzten Fall: Wie bist du vorgegangen? (Vor Ort? Foto vom Kunden? TAB-PDF? Netzbetreiber anrufen?)
 - Wie lange hat das gedauert, vom ersten Blick bis zur Entscheidung?
 - Wer macht das bei euch – Chef, Meister, Monteur?
+- Wie oft fährst du nur zum Gucken raus, bevor du ein Angebot schreiben kannst? Lassen sich Kunden heute schon Fotos schicken – klappt das? *(Hypothese A, 04.10.)*
+- Kommen die Aufträge über SHK-Betriebe (Wärmepumpe) oder Solarteure? Wie oft gibt es dort Ärger wegen des Zählerschranks? *(Hypothese B)*
 
 ### 4. Wie schlimm?
 - Wann ist es zuletzt schiefgegangen? (Angebot zu knapp, Nachtrag, Netzbetreiber hat abgelehnt, zweiter Termin)
