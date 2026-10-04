@@ -29,7 +29,6 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: Neue Westnetz-TAB nach BDEW-Musterwortlaut 2026 beobachten
 - [ ] [[Zählerschrank-Check]]: Dritten Instagram-Post in Canva fertigstellen und gegenlesen
 - [ ] [[Mein Vorteil]] prüfen: Stunden pro Woche, Budget und No-Gos ergänzen
-- [ ] Inbox-Idee „Online-Business aufbauen“ mit `/idee` konkretisieren (bisher ohne Inhalt)
 
 ## Irgendwann
 - [ ] [[Zählerschrank-Check]]: Reel mit Bildschirmaufnahme der App
@@ -37,6 +36,7 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: Login statt Zugangscode, bevor Kollegen testen
 
 ## Erledigt
+- [x] Inbox „Online-Business aufbauen“ geklärt: keine eigene Idee, sondern das Oberziel des Vaults. Es wird über [[Zählerschrank-Check]] verfolgt, siehe [[Ideen-Pipeline]] (04.10.2026)
 - [x] [[Zählerschrank-Check]]: Checkliste A5, Aushang A4, Instagram-Posts 4–10 gebaut, Bildtexte 1–10, Anschreiben HWK Dortmund + Südwestfalen, WhatsApp-Business-Texte (03.10.2026)
 - [x] [[Zählerschrank-Check]]: Name „Zählerklar“ festgelegt, Marketing auf Direktansprache umgestellt (ADR-0005/0006), Flyer-Entwurf A5 + WhatsApp-Texte (03.10.2026)
 - [x] [[Ideen-System]] aufgebaut: Phasen, Score, [[Geldmodelle für KI-Ideen]], Vorlagen, `/idee` + `/wochenrueckblick`; Zählerschrank-Check mit 18/25 bewertet (03.10.2026)

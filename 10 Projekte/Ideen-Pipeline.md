@@ -17,6 +17,6 @@ Alle App- und Geschäftsideen auf einen Blick. Methode: [[Ideen-System]] · Vorl
 ## Verworfen
 *noch keine. Verworfene Ideen bleiben hier mit Grund stehen*
 
-*Ideen-Check 02.10.2026: [[2026-10-02 Ideen-Check]]. [[Hofzentrale]] steht bewusst nicht in der Pipeline: Das ist ein Hobbyprojekt, keine Geschäftsidee, und gehört in die Zentrale.*
+*Ideen-Check 02.10.2026: [[2026-10-02 Ideen-Check]]. [[Hofzentrale]] steht bewusst nicht in der Pipeline: Das ist ein Hobbyprojekt, keine Geschäftsidee, und gehört in die Zentrale. „Online-Business aufbauen“ (Inbox, 28.09.) steht ebenfalls nicht hier: Das ist das Oberziel des ganzen Vaults und keine bewertbare Idee, weil Problem, Zielgruppe und Produkt fehlen. Den Weg dahin beschreibt [[Einschätzung Handwerks-Apps als Nebeneinkommen]]. Eine konkrete Online-Idee kommt über `/idee` dazu (04.10.2026).*
 
 **Phasen:** Einfall → Prüfen (Score) → Validierung (Experimente, Go/No-Go) → MVP (erster zahlender Kunde) → Betrieb · oder **Verworfen** (mit Grund, bleibt stehen)
