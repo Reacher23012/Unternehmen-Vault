@@ -61,4 +61,4 @@ Erst jetzt die App zeigen, 2 Minuten, **auf deinem eigenen Handy**. Den Demo-Lin
 | 4 | | | | | | | | |
 | 5 | | | | | | | | |
 
-**Stand:** 0 von 15 Gesprächen (3 am 04.10. vereinbart) · Problem monatlich 0 (Ziel ≥ 10) · Zahlt/testet 0 (Ziel ≥ 5)
+**Stand:** 4 von 15 Gesprächen geführt (bis 04.10., alle „würden die App nutzen“, Einzelangaben fehlen noch) · Problem monatlich 0 (Ziel ≥ 10) · Zahlt/testet 0 (Ziel ≥ 5)
