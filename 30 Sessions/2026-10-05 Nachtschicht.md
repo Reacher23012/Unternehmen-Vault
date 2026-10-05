@@ -9,6 +9,7 @@ projekt: "[[Zählerschrank-Check]]"
 Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz schreiben (nur Vault, kein Code geändert).
 
 ## Ergebnis
+PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/3
 - Neue Notiz [[Schutz von Idee und App]]: schützbar sind Code (Urheberrecht), Name (Marke) und geheim gehaltenes Know-how (GeschGehG); die Idee selbst nicht; Patent nicht empfohlen.
 - **Technischer Befund bestätigt:** `web/src/regeln.json` und die Logik in `regelwerk.ts` werden ins App-Bundle gebaut, das ganze Regelwerk liegt beim Nutzer im Browser. Lösung skizziert: Auswertung in die Edge Function (`POST /bewerten`).
 - Arbeitgeber-Frage als offene Frage für Anwalt/Steuerberater markiert (nicht beurteilt, Vertrag unbekannt).
