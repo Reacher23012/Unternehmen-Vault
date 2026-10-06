@@ -47,6 +47,8 @@ Nach [[Ideen-System]] · Geldmodelle: [[Geldmodelle für KI-Ideen]]
 10 von 15 Kollegen haben das Problem mind. monatlich · 5 zahlen ≥ 30 €/Monat · Trefferquote ≥ 85 % bei 20 Fällen · 100 Wartelisten-Einträge in 4 Wochen. **3 von 4 → MVP bauen**, sonst Wissen als Schulung/Checkliste verkaufen.
 
 ## Nächster Schritt
+**06.10. (Nachtschicht):** Schutzkonzept geschrieben → [[Schutz von Idee und App]]. Wichtigster Befund: Das Regelwerk steckt im App-Bundle; vor Livegang und Tester-Weitergabe serverseitig verlegen (Code-Aufgabe liegt in [[Aufgaben]]). Marke/NDA/Arbeitgeber-Frage gehören zu einem gebündelten Anwaltstermin. Gespräche bleiben vorrangig.
+
 **03.10.:** 3 Gespräche mit Kollegen für den 04.10. vereinbart → Ergebnisse je Gespräch als Notiz aus `90 Vorlagen/Gespräch`, Zeile in der Auswertung im [[Gesprächsleitfaden]].
 
 **Ideen-Check 02.10.:** Die Phase „Validierung“ stimmt nur formal: Die Kriterien stehen, gemessen ist aber noch nichts. Seit dem 29.09. ist im Vault kein Schritt abgehakt. Alle sechs „Jetzt“-Aufgaben sind Infrastruktur (Schlüssel, Mail, Recht, Hosting, Instagram), keine davon liefert Daten. **Der wichtigste Schritt: bis 09.10. fünf Gespräche mit Kollegen** (wie oft, wie lange dauert's heute, würdest du 30 €/Monat zahlen, magst du mittesten?). Ergebnisse unter [[Validierung & Go-No-Go]] eintragen. Das braucht keinen Code und deckt 2 der 4 Kriterien ab. → [[2026-10-02 Ideen-Check]]
