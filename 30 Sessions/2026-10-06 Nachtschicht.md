@@ -7,7 +7,7 @@ datum: 2026-10-06
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz für [[Zählerschrank-Check]] schreiben (nur Vault, kein Code geändert).
 
 **Ergebnis:**
-- Neue Notiz [[Schutz von Idee und App]]: Schutzmöglichkeiten in Deutschland, technischer Befund, Verträge, Arbeitgeber-Frage, Tempo-Argument, priorisierte Maßnahmenliste. PR: PR_VAULT
+- Neue Notiz [[Schutz von Idee und App]]: Schutzmöglichkeiten in Deutschland, technischer Befund, Verträge, Arbeitgeber-Frage, Tempo-Argument, priorisierte Maßnahmenliste. PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/4
 - **Befund:** `regeln.json` und die komplette Regellogik liegen im App-Bundle (`web/src/regelwerk.ts`), die Edge Function kennt sie nicht. Das schwächt ein Geschäftsgeheimnis. Lösung skizziert: Route `/bewerte` in der Edge Function, App bekommt nur das Ergebnis.
 - In [[Aufgaben]] vier neue Zeilen unter „Als Nächstes“, darunter die Code-Aufgabe „Regelwerk serverseitig“ für eine spätere Nachtschicht. Keine Code-Änderung, daher kein Code-PR.
 - Angenommen: Kostenangaben (Marke ab ca. 290 €, Anwalt 300–800 €) sind Schätzungen aus dem Gedächtnis und müssen aktuell geprüft werden. Rechtsaussagen sind unverbindlich.
