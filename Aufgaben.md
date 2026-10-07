@@ -13,10 +13,15 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: Edge Function neu einspielen (Härtung vom 03.10., zusammen mit den Secrets) → [[App & Technik]]
 - [ ] [[Zählerschrank-Check]]: Projekt-E-Mail-Adresse anlegen (Vorschlag: eigene Domain) → in Impressum/Datenschutz eintragen
 - [ ] [[Zählerschrank-Check]]: Impressum + Datenschutzerklärung prüfen lassen → [[Rechtliches]]
-- [ ] [[Zählerschrank-Check]]: Netlify-Konto anlegen → Landingpage + App online, Warteliste einspielen
+- [ ] [[Zählerschrank-Check]]: Netlify-Konto anlegen → Landingpage + App online, Warteliste einspielen *(Landingpage zuerst; App erst öffentlich, wenn „Regelwerk serverseitig“ erledigt ist → [[Schutz von Idee und App]])*
 - [ ] [[Zählerschrank-Check]]: 20 reale Schränke mit der App erfassen
 
 ## Als Nächstes
+- [ ] [[Zählerschrank-Check]]: **Arbeitgeber-Frage klären** – Arbeits-/Tarifvertrag (Nebentätigkeit, Wettbewerb, Verschwiegenheit) und Schulungsunterlagen sichten, Termin Anwalt/Kammer, vor dem öffentlichen Livegang → [[Schutz von Idee und App]] (Abschnitt 4)
+- [ ] [[Zählerschrank-Check]]: GitHub-Repo `zaehlerschrank-check` auf **privat** prüfen; schriftliches Einverständnis/Geheimhaltung für die 4 Tester vor Zugangsvergabe → [[Schutz von Idee und App]]
+- [ ] [[Zählerschrank-Check]]: **Code: Regelwerk serverseitig** – neue Route `POST /bewerten` in `supabase/functions/api`; `regelwerk.ts` + `regeln.json` aus `web/src/` in den Serverbereich verlegen, App ruft die Route, Antwort nur mit greifenden Regeln (id, name, Maßnahme, Stufe, Fundstelle), Demo mit festen Beispielergebnissen, Tests weiter grün; kein Deployment → [[Schutz von Idee und App]] (Abschnitt 2) *(vor öffentlichem Hosting der App, nicht vor den Gesprächen)*
+- [ ] [[Zählerschrank-Check]]: Nutzungsbedingungen (kein Auslesen/Reverse Engineering, Zugang nicht teilen, „Ersteinschätzung“) schreiben und vom Anwalt prüfen lassen, Bestätigung beim ersten Login → [[Schutz von Idee und App]]
+- [ ] [[Zählerschrank-Check]]: Marken-Recherche „Zählerklar“ im DPMAregister (Klassen 9, 42), danach über Anmeldung (ca. 290 €) entscheiden → [[Schutz von Idee und App]], [[ADR-0006 Produktname Zählerklar]]
 - [ ] [[Zählerschrank-Check]]: QR-Codes der 3 Druckvorlagen mit dem Handy testen, dann drucken → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Instagram vorbereiten: Impressum-Link (hängt an [[Rechtliches]]), Canva-Posts 1–3 auf „Zählerklar“ umstellen, Posts 1–10 fachlich gegenlesen → [[Instagram-Posts 1–10]]
 - [ ] [[Zählerschrank-Check]]: Eigene Fotos echter Zählerschränke für Rätsel-Posts sammeln (ohne Adresse, Namen, Zählernummer)
