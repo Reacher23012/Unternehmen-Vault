@@ -5,7 +5,7 @@ datum: 2026-10-07
 # Nachtschicht 07.10.2026
 
 - **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Analyse für den [[Zählerschrank-Check]] schreiben (nur Vault, kein Code geändert).
-- **Ergebnis:** Neue Notiz [[Schutz von Idee und App]] (PR: siehe unten).
+- **Ergebnis:** Neue Notiz [[Schutz von Idee und App]] (PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/5).
   - Schützbar: Code (Urheberrecht, automatisch), Name (Marke DPMA, ca. 290 €), Regelwerk nur als Geschäftsgeheimnis mit angemessenen Maßnahmen; Idee nicht; Patent praktisch nicht.
   - **Technischer Befund (am Code geprüft):** `web/src/regelwerk.ts` und `regeln.json` werden ins Browser-Bundle gebaut; ohne Serveraufruf, auch ohne Zugangscode lesbar, sobald die App öffentlich liegt. Lösungsskizze: Route `/bewerten` in der Edge Function, App bekommt nur greifende Regeln samt Fundstelle.
   - Verträge (NDA, Nutzungsbedingungen, Login), Arbeitgeber-Frage als offene Anwaltsfrage, Schutz durch Tempo/Netzwerk/Falldaten, priorisierte Maßnahmenliste mit Kosten.
