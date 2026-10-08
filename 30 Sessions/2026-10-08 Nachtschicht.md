@@ -6,7 +6,7 @@ datum: 2026-10-08
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ für [[Zählerschrank-Check]] als Analyse erstellen (nur Vault, kein Code geändert).
 
-**Ergebnis:** Neue Notiz [[Schutz von Idee und App]] (Schutzmöglichkeiten in Deutschland, technischer Befund, Verträge, Arbeitgeber-Frage, Tempo-Vorsprung, priorisierte Maßnahmen). Kernbefund: `regeln.json` wird ins App-Bundle gebaut, das ganze Regelwerk läge nach dem Hosting beim Nutzer im Browser → Lösung: Auswertung in die Edge Function. Drei Folgeaufgaben unter „Als Nächstes“ in [[Aufgaben]] angelegt (u. a. Code-Aufgabe „Regelwerk serverseitig“). PR: PRLINK
+**Ergebnis:** Neue Notiz [[Schutz von Idee und App]] (Schutzmöglichkeiten in Deutschland, technischer Befund, Verträge, Arbeitgeber-Frage, Tempo-Vorsprung, priorisierte Maßnahmen). Kernbefund: `regeln.json` wird ins App-Bundle gebaut, das ganze Regelwerk läge nach dem Hosting beim Nutzer im Browser → Lösung: Auswertung in die Edge Function. Drei Folgeaufgaben unter „Als Nächstes“ in [[Aufgaben]] angelegt (u. a. Code-Aufgabe „Regelwerk serverseitig“). PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/6
 
 **Annahmen:** Kosten (Anwalt, DPMA) sind Schätzungen und müssen geprüft werden; Rechtsfragen sind als „→ Anwalt“ markiert. Die erste „Jetzt“-Aufgabe (5 Gespräche) braucht echte Gespräche und war nicht wählbar.
 
