@@ -17,6 +17,11 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: 20 reale Schränke mit der App erfassen
 
 ## Als Nächstes
+- [ ] [[Zählerschrank-Check]]: **Arbeitsvertrag lesen** (Nebentätigkeit, Wettbewerb, Geheimhaltung, Arbeitsergebnisse) + GitHub-Repos auf „privat“ prüfen – 1 Stunde, kostenlos, vor weiterem Aufwand → [[Schutz von Idee und App]]
+- [ ] [[Zählerschrank-Check]]: **Code: Regelwerk serverseitig** – Edge Function `POST /bewerten` (Eingaben rein, Ergebnis + Fundstelle raus), `regeln.json` und `ausgeloesteRegeln` aus dem Web-Bundle nehmen, App ruft die Route auf, die 13 Tests ziehen um (Ergebnis bleibt 1:1 gleich). Nicht vor Go/No-Go und nicht ohne Login; Offline-Nachteil beachten → [[Schutz von Idee und App#2. Technischer Befund: das Regelwerk liegt beim Nutzer im Browser]]
+- [ ] [[Zählerschrank-Check]]: Testbedingungen/NDA (1 Seite) und Nutzungsbedingungen der App als Entwurf schreiben (Nachtschicht geeignet), danach vom Anwalt prüfen lassen → [[Schutz von Idee und App#3. Verträge und Nutzungsbedingungen]]
+- [ ] [[Zählerschrank-Check]]: Anwalt-Erstberatung (Arbeitgeber-Frage, Haftung, Nutzungsbedingungen) vor dem ersten bezahlten Kunden → [[Schutz von Idee und App#4. Arbeitgeber-Frage (offen, wichtig) 🔶]]
+- [ ] [[Zählerschrank-Check]]: Wortmarke „Zählerklar“ beim DPMA anmelden (ca. 290 €, nach Go und nach Recherche) → [[Schutz von Idee und App]]
 - [ ] [[Zählerschrank-Check]]: QR-Codes der 3 Druckvorlagen mit dem Handy testen, dann drucken → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Instagram vorbereiten: Impressum-Link (hängt an [[Rechtliches]]), Canva-Posts 1–3 auf „Zählerklar“ umstellen, Posts 1–10 fachlich gegenlesen → [[Instagram-Posts 1–10]]
 - [ ] [[Zählerschrank-Check]]: Eigene Fotos echter Zählerschränke für Rätsel-Posts sammeln (ohne Adresse, Namen, Zählernummer)
