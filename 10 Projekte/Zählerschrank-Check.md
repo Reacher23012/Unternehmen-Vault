@@ -58,6 +58,8 @@ Nach [[Ideen-System]] · Geldmodelle: [[Geldmodelle für KI-Ideen]]
 10 von 15 Kollegen haben das Problem mind. monatlich · 5 zahlen ≥ 30 €/Monat · Trefferquote ≥ 85 % bei 20 Fällen · 100 Wartelisten-Einträge in 4 Wochen. **3 von 4 → MVP bauen**, sonst Wissen als Schulung/Checkliste verkaufen.
 
 ## Nächster Schritt
+**11.10. (Nachtschicht):** Schutzkonzept als Entwurf: [[Schutz von Idee und App]]. Wichtigster Befund: Das ganze Regelwerk (`regeln.json` + Logik) ist im Browser-Bundle lesbar; vor öffentlichem Hosting serverseitig verlegen (neue Aufgabe), und die Arbeitgeber-Frage vor Veröffentlichung beim Anwalt klären. Kein Vorzug vor den Gesprächen.
+
 **03.10. (abends):** Das Marketing-Material steht: 3 Druckvorlagen, Instagram-Posts 1–10, WhatsApp-Business-Texte und das Anschreiben an die Handwerkskammern → [[Direktansprache]], [[Instagram-Posts 1–10]], [[Anschreiben Handwerkskammern]]. Vor dem Druck: QR-Codes testen und den Namen prüfen. Vorrang haben weiter die Gespräche. → [[2026-10-03 Zählerklar – Sicherheit, Name, Marketing-Material]]
 
 **03.10.:** 3 Gespräche mit Kollegen für den 04.10. vereinbart → Ergebnisse je Gespräch als Notiz aus `90 Vorlagen/Gespräch`, Zeile in der Auswertung im [[Gesprächsleitfaden]].
