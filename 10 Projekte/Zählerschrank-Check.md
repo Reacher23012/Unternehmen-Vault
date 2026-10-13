@@ -69,6 +69,8 @@ Nach [[Ideen-System]] · Geldmodelle: [[Geldmodelle für KI-Ideen]]
 3. Instagram-Konto anlegen, Link in Bio, erste Posts
 4. 20 reale Schränke mit der App erfassen, 15 Gespräche führen
 
+**13.10. (Nachtschicht):** Name „Zählerklar“ in App, Landingpage, Impressum, Datenschutz übernommen, Warteliste-Quelle per `?quelle=` (Standard `direkt`) – PR offen: https://github.com/Reacher23012/zaehlerschrank-check/pull/1 → [[2026-10-13 Nachtschicht]]
+
 ## Entscheidungen
 - [[ADR-0001 Zählerschrank-App als Validierungswerkzeug]]
 - [[ADR-0002 Marketing zuerst über Instagram]]
