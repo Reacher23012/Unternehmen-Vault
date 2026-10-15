@@ -10,7 +10,7 @@ datum: 2026-10-15
 - Neue Notiz [[Schutz von Idee und App]]: schützbar ist Code (Urheberrecht), Name (Marke), Regelwerk nur als Geschäftsgeheimnis; Idee und Software-Patent nicht.
 - **Technischer Befund bestätigt:** `web/src/regeln.json` (26 Regeln, 14 KB) wird über `regelwerk.ts` ins Bundle gebaut und `bewerte()` läuft im Browser. Nach dem Hosting hätte jeder Besucher das ganze Regelwerk, auch ohne Zugangscode. Lösung skizziert: Auswertung serverseitig.
 - Priorisierte Maßnahmenliste mit Kosten; vier neue Aufgaben unter „Als Nächstes“ in [[Aufgaben]] (u. a. „Regelwerk serverseitig“ als eigene Code-Zeile).
-- PR: PR_LINK
+- PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/13
 
 **Annahmen:** Rechtliches aus allgemeinem Wissen, nicht gegen aktuelle Quellen geprüft; Gebührenangaben (DPMA) ungeprüft und als solche markiert.
 
