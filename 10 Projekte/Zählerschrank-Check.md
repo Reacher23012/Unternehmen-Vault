@@ -18,6 +18,9 @@ Ein Elektriker fotografiert einen Zählerschrank, und die App sagt ihm, welche M
 - **Zielgruppe:** Elektrobetriebe im Westnetz-Gebiet; Preisannahme ~30 €/Monat.
 - **Wettbewerb/Alternativen:** Erfahrung + TAB-PDF + Rückfrage beim Netzbetreiber; noch nicht recherchiert.
 
+## Nachtschicht 16.10.2026: Schutzkonzept
+Analyse [[Schutz von Idee und App]] geschrieben (nur Vault, kein Code geändert). Befund: Das gesamte Regelwerk (`regeln.json` + Logik in `regelwerk.ts`) steckt im Browser-Bundle und ist für Nutzer lesbar. Risiko mittel, Gegenmittel „Regelwerk serverseitig“ + Login + Nutzungsbedingungen, am besten vor dem Kollegen-Test. Die Arbeitgeber-Frage bleibt offen (Anwalt). Neue Aufgaben stehen in [[Aufgaben]] unter „Als Nächstes“. Vorrang haben weiter die Gespräche.
+
 ## Stand (29.09.2026)
 | Baustein | Stand |
 |---|---|
