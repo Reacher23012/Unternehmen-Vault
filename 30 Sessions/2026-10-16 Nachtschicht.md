@@ -12,7 +12,7 @@ datum: 2026-10-16
 - Lösung skizziert: Regelauswertung in die Edge Function, dazu Login, Nutzungsbedingungen, Kurz-NDA.
 - Die Arbeitgeber-Frage ist als offene Frage für Anwalt/Steuerberater markiert.
 - Drei neue Aufgaben in [[Aufgaben]] unter „Als Nächstes“, darunter die Code-Aufgabe „Regelwerk serverseitig“ für eine spätere Nachtschicht.
-- PR (Vault): PRLINK
+- PR (Vault): https://github.com/Reacher23012/Unternehmen-Vault/pull/14
 
 **Annahmen:** Ob du angestellt bist, ist im Vault nicht belegt, deshalb steht der Arbeitgeber-Abschnitt als „falls ja“. Kosten (z. B. Marke ca. 290 €) sind Schätzungen aus dem Gedächtnis. Es gibt keinen Code-PR, weil die Aufgabe ausdrücklich „kein Code ändern“ verlangte.
 
