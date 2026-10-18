@@ -6,7 +6,7 @@ datum: 2026-10-18
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz erstellen (nur Vault, kein Code geändert).
 
-**Ergebnis:** [[Schutz von Idee und App]] (PR: PRLINK).
+**Ergebnis:** [[Schutz von Idee und App]] (PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/16).
 - Idee nicht schützbar; Code (Urheberrecht), Name (Marke) und Regelwerk (nur als Geschäftsgeheimnis mit Geheimhaltungsmaßnahmen) schon.
 - **Technischer Befund bestätigt:** `web/src/regeln.json` wird im Browser ausgewertet (`main.ts`, `demo.ts` rufen `bewerte` clientseitig auf), die Edge Function macht keine Regelauswertung. Lösung skizziert: `POST /bewerte`.
 - Neue Aufgaben in [[Aufgaben]] unter „Als Nächstes“: Code „Regelwerk serverseitig“ (für eine spätere Nachtschicht), Arbeitgeber-Frage, Nutzungsbedingungen + NDA; „Login statt Zugangscode“ vorgezogen. Stand in [[Zählerschrank-Check]] ergänzt.
