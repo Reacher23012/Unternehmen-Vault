@@ -11,7 +11,7 @@ datum: 2026-10-22
 - **Befund:** `web/src/regeln.json` und die gesamte Regellogik (`regelwerk.ts`) laufen im Browser, das Regelwerk ist also für jeden Nutzer auslesbar. Lösung skizziert: `POST /bewerten` in der Edge Function.
 - Vier neue Aufgaben unter „Als Nächstes“ in [[Aufgaben]] (u. a. Code-Aufgabe „Regelwerk serverseitig“ für eine spätere Nachtschicht).
 - Annahmen: Gesetzesangaben und Kosten aus allgemeinem Wissen, nicht recherchiert; alles Juristische ist als „Anwalt“ markiert.
-- PR: siehe Aufgabe in [[Aufgaben]] (Vault-PR vom 22.10.2026).
+- PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/20
 
 **Offen:**
 - Notiz lesen, Annahmen korrigieren; Arbeitsvertrag heraussuchen (Nebentätigkeit, Wettbewerb).
