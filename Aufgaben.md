@@ -17,6 +17,10 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: 20 reale Schränke mit der App erfassen
 
 ## Als Nächstes
+- [ ] [[Zählerschrank-Check]]: **Arbeitsvertrag lesen** (Nebentätigkeit, Erfindungen/Urheberrechte, Verschwiegenheit, Wettbewerb), Fragen für ein Erstgespräch mit Anwalt/Handwerkskammer sammeln → [[Schutz von Idee und App]] (Abschnitt 4)
+- [ ] [[Zählerschrank-Check]]: **Code-Aufgabe „Regelwerk serverseitig“:** Route `POST /bewerten` in der Edge Function, `regeln.json` und Auslöse-Logik aus dem Web-Bundle entfernen, App ruft nur das Ergebnis ab; Tests bleiben grün, `dist/` enthält keine Regeltexte (Prüfung per grep) → [[Schutz von Idee und App]] (Abschnitt 2). Vor dem öffentlichen Hosting der App.
+- [ ] [[Zählerschrank-Check]]: NDA für Tester/Kollegen (Vorlage von Anwalt/Innung) und Nutzungsbedingungen der App (kein Kopieren/Reverse Engineering) → [[Schutz von Idee und App]] (Abschnitt 3)
+- [ ] [[Zählerschrank-Check]]: App vorerst **nicht öffentlich hosten** (Netlify-Aufgabe: zuerst nur die Landingpage); Bundle-Link nicht an Unbekannte geben
 - [ ] [[Zählerschrank-Check]]: QR-Codes der 3 Druckvorlagen mit dem Handy testen, dann drucken → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Instagram vorbereiten: Impressum-Link (hängt an [[Rechtliches]]), Canva-Posts 1–3 auf „Zählerklar“ umstellen, Posts 1–10 fachlich gegenlesen → [[Instagram-Posts 1–10]]
 - [ ] [[Zählerschrank-Check]]: Eigene Fotos echter Zählerschränke für Rätsel-Posts sammeln (ohne Adresse, Namen, Zählernummer)
