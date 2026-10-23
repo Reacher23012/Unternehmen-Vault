@@ -6,7 +6,7 @@ datum: 2026-10-23
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ für [[Zählerschrank-Check]] als Wissensnotiz erarbeiten (nur Vault, kein Code geändert).
 
-**Ergebnis:**
+**Ergebnis** (PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/21):
 - Neue Notiz [[Schutz von Idee und App]]: Was ist schützbar (Idee nein, Code ja, Name per Marke, Regelwerk nur als Geschäftsgeheimnis), Verträge, Arbeitgeber-Frage, Schutz durch Tempo, priorisierte Maßnahmenliste mit Kosten.
 - **Technischer Befund:** `web/src/regeln.json` und die Auslöse-Logik (`regelwerk.ts`) werden ins Browser-Bundle gebaut; `bewerte()` läuft im Browser. Der `APP_CODE` schützt nur das Backend. Sobald die App öffentlich liegt, ist das Regelwerk für jeden lesbar. Lösungsskizze: `POST /bewerten` in der Edge Function, App bekommt nur Ergebnis + Fundstelle.
 - Vier neue Zeilen unter „Als Nächstes“ in [[Aufgaben]], darunter die Code-Aufgabe „Regelwerk serverseitig“ für eine spätere Nachtschicht. Projektnotiz ergänzt.
