@@ -42,6 +42,9 @@ Idee: nicht nur Elektriker, sondern auch **Hauseigentümer** und **SHK-Betriebe*
 
 **Einordnung:** Kein Richtungswechsel vor den ersten Gesprächen. A und B werden als Zusatzfragen mitvalidiert, C bleibt Hypothese. Im B2C-Fall nie „Mängelliste“, sondern „Ersteinschätzung, Prüfung durch Elektrofachkraft nötig“.
 
+## Schutzkonzept (15.10.2026, Nachtschicht)
+Idee nicht schützbar; Code per Urheberrecht, Name per Marke (erst nach Go). **Technischer Befund:** das ganze Regelwerk (`regeln.json`) steckt im Web-Bundle und wäre öffentlich einsehbar, sobald die App online ist – Lösung: Auswertung in die Edge Function (neue Aufgabe). Offen für Anwalt: Arbeitgeber-Frage, NDA, Geschäftsgeheimnis. Vorrang haben weiter die Gespräche. → [[Schutz von Idee und App]]
+
 ## Score (vorläufig, 03.10.2026)
 | Kriterium | Punkte | Begründung |
 |---|---|---|
