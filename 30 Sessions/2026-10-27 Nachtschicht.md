@@ -6,7 +6,7 @@ datum: 2026-10-27
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz erstellen (nur Vault, kein Code geändert).
 
-**Ergebnis:** [[Schutz von Idee und App]] geschrieben, PR im Vault: PRLINK. Code-Repo unverändert, daher dort kein PR.
+**Ergebnis:** [[Schutz von Idee und App]] geschrieben, PR im Vault: https://github.com/Reacher23012/Unternehmen-Vault/pull/23. Code-Repo unverändert, daher dort kein PR.
 - Idee nicht schützbar; Code (Urheberrecht), Name (Marke, DPMA), Regelwerk nur als Geschäftsgeheimnis mit Geheimhaltungsmaßnahmen; Patent unrealistisch.
 - **Technischer Befund:** `web/src/regeln.json` (ca. 14 KB, alle 26 Regeln im Klartext) und die Auslöse-Logik werden in das Browser-Bundle gebaut; die Entscheidung fällt komplett im Client. Lösung skizziert: Route `POST /bewerte` in der Edge Function.
 - Neue Aufgaben in [[Aufgaben]] unter „Als Nächstes“: Regelwerk serverseitig (Code), NDA-Vorlage, Arbeitgeber-Frage, Nutzungsbedingungen, Vault-Sichtbarkeit prüfen.
