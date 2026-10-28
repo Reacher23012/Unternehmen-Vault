@@ -6,7 +6,7 @@ datum: 2026-10-28
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Analyse für [[Zählerschrank-Check]] schreiben (nur Vault, kein Code geändert).
 
-**Ergebnis:** Neue Notiz [[Schutz von Idee und App]] (PR: PR_LINK).
+**Ergebnis:** Neue Notiz [[Schutz von Idee und App]] (PR: https://github.com/Reacher23012/unternehmen-vault/pull/24).
 - Schützbar: Code (Urheberrecht, automatisch), Name (Marke ~290 €), Regelwerk nur als Geschäftsgeheimnis. Idee und Patent: nein.
 - **Technischer Befund:** `regeln.json` und die komplette Regellogik liegen im App-Bundle, also beim Nutzer im Browser. Heute niedriges Risiko (App nicht online), wird mit dem Livegang relevant. Lösungsskizze: Auswertung in die Edge Function, App bekommt nur Ergebnis + Fundstelle. Grenze: Orakel-Angriff durch Ausprobieren bleibt möglich.
 - GitHub-Repo ist privat (geprüft).
