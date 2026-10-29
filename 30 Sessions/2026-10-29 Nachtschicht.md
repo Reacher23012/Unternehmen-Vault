@@ -6,7 +6,7 @@ datum: 2026-10-29
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Notiz schreiben (nur Vault, kein Code).
 
-**Ergebnis:** [[Schutz von Idee und App]] erstellt (schützbare Dinge, technischer Befund, Verträge, Arbeitgeber-Frage, Maßnahmenliste). PR: PR_LINK
+**Ergebnis:** [[Schutz von Idee und App]] erstellt (schützbare Dinge, technischer Befund, Verträge, Arbeitgeber-Frage, Maßnahmenliste). PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/25
 - **Wichtigster Fund:** Der GitHub-Repo `Unternehmen-Vault` ist **öffentlich** und enthält das Regelwerk-Excel sowie Name/Anschrift. Sofort auf privat stellen.
 - Technisch bestätigt: `regeln.json` und die komplette Logik in `regelwerk.ts` stecken im Browser-Bundle; Lösung `POST /bewerten` skizziert (mit Grenzen: Black-Box-Abfragen, Offline-Verlust).
 - Neue Aufgaben in [[Aufgaben]] angelegt, darunter die Code-Aufgabe „Regelwerk serverseitig“.
