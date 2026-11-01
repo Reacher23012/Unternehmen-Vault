@@ -10,7 +10,7 @@ datum: 2026-11-01
 - [[Schutz von Idee und App]] geschrieben: Was in Deutschland schützbar ist, technischer Befund, Verträge, Arbeitgeber-Frage, Schutz durch Tempo, priorisierte Maßnahmenliste.
 - **Technischer Befund (am Code geprüft):** `web/src/regeln.json` und die gesamte Logik in `web/src/regelwerk.ts` werden ins App-Bundle gebaut. Nach dem Livegang kann jeder mit der Adresse das Regelwerk lesen; der Zugangscode schützt nur die Backend-Routen. Lösungsskizze: Auswertung per `POST /bewerte` in der Edge Function (Nachteil: Bewertung braucht Netz).
 - In [[Aufgaben]] vier neue Zeilen unter „Als Nächstes“ (Arbeitsvertrag/Anwalt, Repos privat + 2FA, NDA/Nutzungsbedingungen, Code-Aufgabe „Regelwerk serverseitig“), Stand in [[Zählerschrank-Check]] ergänzt.
-- Vault-PR: <PR-VAULT>. Der Code wurde nicht geändert, daher kein Code-PR.
+- Vault-PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/28. Der Code wurde nicht geändert, daher kein Code-PR.
 
 **Annahmen:** Gebühren (Marke ca. 300 €) und Paragrafen aus dem Gedächtnis, nicht gegen aktuelle Quellen geprüft, deshalb als „vor Entscheidung nachsehen“ markiert. Den Arbeitsvertrag kenne ich nicht.
 
