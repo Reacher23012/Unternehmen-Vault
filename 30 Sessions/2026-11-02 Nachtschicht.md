@@ -15,7 +15,7 @@ projekt: "[[Zählerschrank-Check]]"
 - Die ersten Aufgaben in „Jetzt“ (Gespräche, Schlüssel, Konten, Hosting) brauchen Nutzer-Zugänge und wurden deshalb nicht gewählt.
 
 **Offen (für dich):**
-1. PR prüfen und mergen, dann die Aufgabe „Schutzkonzept“ in [[Aufgaben]] abhaken.
+1. [PR #29](https://github.com/Reacher23012/Unternehmen-Vault/pull/29) prüfen und mergen, dann die Aufgabe „Schutzkonzept“ in [[Aufgaben]] abhaken.
 2. Arbeitsvertrag lesen und Erstberatung beim Anwalt buchen (Eigentum am Regelwerk, Nebentätigkeit).
 3. GitHub-Repos auf privat und 2FA prüfen.
 4. Vorrang bleibt: Gespräche mit Kollegen ([[Validierung & Go-No-Go]]). Das Schutzkonzept darf sie nicht verdrängen.
