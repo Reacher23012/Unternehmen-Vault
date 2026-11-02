@@ -47,7 +47,7 @@ Kontext: [[Zählerschrank-Check]], [[App & Technik]], [[Regelwerk R01–R26]], [
 **Lösungsskizze „Regelwerk serverseitig“:**
 1. `regelwerk.ts` (nur die Auswertung) + `regeln.json` in die Edge Function verlegen (oder zweite Funktion `POST /bewerte`).
 2. App sendet nur die `Eingaben` (Felder aus `modell.ts`), bekommt zurück: `ergebnis`, `regeln[]` (nur die **ausgelösten**, mit Name, Maßnahme, Fundstelle), `offen[]`, `ergebnisSchlimmstenfalls`, `messkonzept`. Die Bedingungstexte und Schwellen bleiben auf dem Server.
-3. App-Bundle enthält nur noch Anzeige und Eingabeformular. Auswertung braucht dann eine Verbindung → der Offline-Betrieb (Funkloch-Nachsenden) braucht eine Entscheidung: Eingaben lokal puffern, Bewertung nachholen. Alternativ bewusst bbis zur Validierung so lassen.
+3. App-Bundle enthält nur noch Anzeige und Eingabeformular. Auswertung braucht dann eine Verbindung → der Offline-Betrieb (Funkloch-Nachsenden) braucht eine Entscheidung: Eingaben lokal puffern, Bewertung nachholen. Alternativ bewusst bis zur Validierung so lassen.
 4. Zugang: **Login statt Zugangscode** (steht schon unter „Irgendwann“), sonst ist ein geteilter Code ein Loch. Rate-Limit ergänzen (offene Punkte in [[App & Technik]]).
 5. Tests: `regelwerk.test.ts` (13 Tests, Excel-Beispielzeile) läuft mit dem Server-Modul weiter; Tests nach `supabase/functions/` spiegeln oder Modul gemeinsam nutzen (Deno/Vite-Import beachten).
 6. Das Demo-Artifact (`build:demo`) nutzt `demo.ts` mit Beispieldaten. Vor Weitergabe prüfen, ob das echte Regelwerk eingebaut wird; sonst nur Beispiel-Regeln zeigen.
