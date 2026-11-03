@@ -6,7 +6,7 @@ datum: 2026-11-03
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz für [[Zählerschrank-Check]] schreiben (nur Vault, kein Code geändert).
 
-**Ergebnis:** Neue Notiz [[Schutz von Idee und App]] mit allen sechs geforderten Punkten. PR (Vault): PRLINK. Kein Code-PR, weil die Aufgabe ausdrücklich nur den Vault betraf.
+**Ergebnis:** Neue Notiz [[Schutz von Idee und App]] mit allen sechs geforderten Punkten. PR (Vault): https://github.com/Reacher23012/unternehmen-vault/pull/30. Kein Code-PR, weil die Aufgabe ausdrücklich nur den Vault betraf.
 - Kernbefund: `regeln.json` und die komplette Auswertung (`regelwerk.ts`) stecken im App-Bundle und werden bei Netlify-Livegang öffentlich ausgeliefert; der Zugangscode schützt nur die API. Lösungsskizze: Auswertung in die Edge Function (`POST /bewerte`), Grenzen (Abtasten über die API, Offline-Verhalten) benannt.
 - Idee selbst ist nicht schützbar; Patent/Gebrauchsmuster nicht verfolgen; Marke erst nach Signalen; echter Schutz = Tempo, Netzwerk, Daten.
 - Arbeitgeber-Frage als offene Frage für Anwalt markiert (§ 69b UrhG, Nebentätigkeit, Wettbewerb, Herkunft der Unterlagen).
