@@ -31,6 +31,9 @@ Ein Elektriker fotografiert einen Zählerschrank, und die App sagt ihm, welche M
 | Instagram (Phase 2) | 3 Posts in Canva, Bildtexte fertig, Konto fehlt → [[Instagram]] |
 | Validierung | 0 Fälle, 0 Gespräche, 0 Einträge → [[Validierung & Go-No-Go]], Leitfaden steht → [[Gesprächsleitfaden]] |
 
+## Schutzkonzept (04.11.2026, Nachtschicht)
+Analyse unter [[Schutz von Idee und App]] (keine Rechtsberatung). Kernpunkte: Idee nicht schützbar; Regelwerk liegt heute komplett im Browser-Bundle (`regeln.json` + `regelwerk.ts`) → vor Livegang serverseitig auslagern; NDA/Nutzungsbedingungen/Login vor dem Mittesten; **Arbeitgeber-Frage (Nebentätigkeit, Wettbewerb, Rechte) ist offen und gehört zum Anwalt**. Neue Aufgaben in [[Aufgaben]] unter „Als Nächstes“. → [[2026-11-04 Nachtschicht]]
+
 ## Weitere Zielgruppen (Hypothesen, 04.10.2026)
 Idee: nicht nur Elektriker, sondern auch **Hauseigentümer** und **SHK-Betriebe**. Der Kunde weiß vorher, was am Kasten ansteht, und spricht den Elektriker mit einer Mängelliste an.
 
