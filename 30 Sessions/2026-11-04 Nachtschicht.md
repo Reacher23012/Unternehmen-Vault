@@ -6,7 +6,7 @@ datum: 2026-11-04
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz schreiben (nur Vault, kein Code geändert).
 
-**Ergebnis:** [[Schutz von Idee und App]] mit den sechs geforderten Teilen und priorisierter Maßnahmenliste. Technischer Befund bestätigt: `regeln.json` wird über `regelwerk.ts` ins App-Bundle gebaut, das ganze Regelwerk liegt beim Nutzer im Browser. Vier neue Aufgaben unter „Als Nächstes“ in [[Aufgaben]] (u. a. Code-Aufgabe „Regelwerk serverseitig“). PR: PR_URL
+**Ergebnis:** [[Schutz von Idee und App]] mit den sechs geforderten Teilen und priorisierter Maßnahmenliste. Technischer Befund bestätigt: `regeln.json` wird über `regelwerk.ts` ins App-Bundle gebaut, das ganze Regelwerk liegt beim Nutzer im Browser. Vier neue Aufgaben unter „Als Nächstes“ in [[Aufgaben]] (u. a. Code-Aufgabe „Regelwerk serverseitig“). PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/31
 
 **Annahmen:** Kostenangaben sind Größenordnungen aus dem Modellwissen, nicht tagesaktuell geprüft. Rechtliches ist als ⚖️ „vom Anwalt prüfen lassen“ markiert. Der Code-Stand wurde nur gelesen, nicht verändert; deshalb gibt es heute keinen Code-PR.
 
