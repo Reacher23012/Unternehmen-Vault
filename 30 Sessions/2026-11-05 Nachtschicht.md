@@ -10,7 +10,7 @@ datum: 2026-11-05
 - Neue Notiz [[Schutz von Idee und App]] mit den sechs geforderten Teilen. Kern: Die Idee ist nicht schützbar; **Befund: das gesamte Regelwerk (`regeln.json` + Auswertung) steckt im öffentlichen App-Bundle**, die Edge Function kennt keine Regeln, der `APP_CODE` schützt nur die API. Lösung skizziert: Auswertung serverseitig, App bekommt nur Ergebnis + Fundstelle.
 - Empfehlung (Annahme der Nachtschicht): Serverseitiges Regelwerk **nicht** vor den Gesprächen bauen, aber vor dem öffentlichen Livegang. Patent/Gebrauchsmuster: nicht verfolgen.
 - Neue Aufgaben in [[Aufgaben]] unter „Als Nächstes“ (u. a. Code-Aufgabe „Regelwerk serverseitig“ für eine spätere Nachtschicht).
-- Vault-PR: PRLINK. Code-Repo: unverändert, kein PR.
+- Vault-PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/32. Code-Repo: unverändert, kein PR.
 
 **Offen (für dich):**
 1. **Arbeitsvertrag lesen** (Nebentätigkeit, Wettbewerb, Geheimhaltung) und Erstberatung Fachanwalt Arbeitsrecht planen. Das ist die einzige Frage, die das ganze Projekt betreffen kann; ich kann sie nicht beantworten.
