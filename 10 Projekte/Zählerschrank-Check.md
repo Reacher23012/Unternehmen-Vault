@@ -57,6 +57,9 @@ Nach [[Ideen-System]] · Geldmodelle: [[Geldmodelle für KI-Ideen]]
 ## Go/No-Go
 10 von 15 Kollegen haben das Problem mind. monatlich · 5 zahlen ≥ 30 €/Monat · Trefferquote ≥ 85 % bei 20 Fällen · 100 Wartelisten-Einträge in 4 Wochen. **3 von 4 → MVP bauen**, sonst Wissen als Schulung/Checkliste verkaufen.
 
+## Schutzkonzept (05.11.2026, Nachtschicht)
+Analyse in [[Schutz von Idee und App]]: Idee nicht schützbar, Code/Name nur schwach bis mittel. **Befund: Regelwerk liegt komplett im Browser-Bundle** (Edge Function kennt keine Regeln). Lösung: serverseitig auswerten, vor öffentlichem Livegang. Offene Arbeitgeber-Frage (Arbeitsvertrag, § 69b UrhG) → Anwalt. Kein Vorrang vor den Gesprächen.
+
 ## Nächster Schritt
 **03.10. (abends):** Das Marketing-Material steht: 3 Druckvorlagen, Instagram-Posts 1–10, WhatsApp-Business-Texte und das Anschreiben an die Handwerkskammern → [[Direktansprache]], [[Instagram-Posts 1–10]], [[Anschreiben Handwerkskammern]]. Vor dem Druck: QR-Codes testen und den Namen prüfen. Vorrang haben weiter die Gespräche. → [[2026-10-03 Zählerklar – Sicherheit, Name, Marketing-Material]]
 
