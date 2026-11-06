@@ -6,7 +6,7 @@ datum: 2026-11-06
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ für [[Zählerschrank-Check]] als Notiz schreiben (nur Vault, kein Code geändert).
 
-**Ergebnis:** [[Schutz von Idee und App]] mit Rechtslage (Idee, Code, Name, Geschäftsgeheimnis, Patent), technischem Befund, Verträgen, Arbeitgeber-Frage, Tempo-Schutz und priorisierter Maßnahmenliste. Neue Aufgaben stehen in [[Aufgaben]] (inkl. Code-Aufgabe „Regelwerk serverseitig“). Pull Request: PRLINK
+**Ergebnis:** [[Schutz von Idee und App]] mit Rechtslage (Idee, Code, Name, Geschäftsgeheimnis, Patent), technischem Befund, Verträgen, Arbeitgeber-Frage, Tempo-Schutz und priorisierter Maßnahmenliste. Neue Aufgaben stehen in [[Aufgaben]] (inkl. Code-Aufgabe „Regelwerk serverseitig“). Pull Request: https://github.com/Reacher23012/Unternehmen-Vault/pull/33
 - **Befund 1 (dringend):** Das GitHub-Repo `unternehmen-vault` ist **öffentlich** und enthält Regelwerk, Excel-Datei und Pläne. Das Code-Repo ist privat (anonym 404).
 - **Befund 2:** `regeln.json` + `regelwerk.ts` landen im App-Bundle; Zugangscode schützt nur die Edge Function.
 - **Befund 3:** Der Score „Vorsprung 5“ ist zu hoch, solange das Regelwerk aus öffentlichen Quellen besteht (Vorschlag, nicht geändert).
