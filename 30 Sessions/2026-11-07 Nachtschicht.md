@@ -6,7 +6,7 @@ datum: 2026-11-07
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz erarbeiten (nur Vault, kein Code geändert).
 
-**Ergebnis:** [[Schutz von Idee und App]] geschrieben – PR: PR_VAULT
+**Ergebnis:** [[Schutz von Idee und App]] geschrieben – PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/34
 - Schützbar sind Code (Urheberrecht), Name (Marke) und Geheimnisse; die Idee selbst nicht.
 - **Technischer Befund:** `web/src/regeln.json` und die Auswertung `regelwerk.ts` stecken im öffentlichen App-Bundle (und im Demo-Artifact). Die Edge Function enthält keine Regeln. Risiko heute niedrig bis mittel (App nicht online), wird mit dem Livegang relevant. Lösungsskizze: Auswertung in die Edge Function (`POST /bewerten`), Nachteil: kein Offline-Betrieb.
 - Geheimnisschutz nach GeschGehG setzt „angemessene Geheimhaltungsmaßnahmen“ voraus; Reverse Engineering ist ohne Vertragsverbot erlaubt. Daher NDA + Nutzungsbedingungen + Login.
