@@ -17,6 +17,11 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: 20 reale Schränke mit der App erfassen
 
 ## Als Nächstes
+- [ ] [[Zählerschrank-Check]]: **Regelwerk serverseitig** (Code, für eine Nachtschicht): `web/src/regeln.json` und die Auslöse-Logik aus `web/src/regelwerk.ts` in die Edge Function verlegen (neue Route `POST /auswerten`: Eingaben rein, Ergebnis + Fundstelle je Maßnahme raus); App zeigt nur Ergebnis, Bundle enthält kein Regelwerk mehr; Tests anpassen, `npm test` + `npm run build` grün; **nicht deployen** → [[Schutz von Idee und App]] Abschnitt 2. Vor dem Test durch Fremde.
+- [ ] [[Zählerschrank-Check]]: Login je Tester statt gemeinsamem `APP_CODE` (sperrbar, protokolliert) → [[Schutz von Idee und App]] (Maßnahme 3)
+- [ ] [[Zählerschrank-Check]]: Kurz-NDA + Nutzungsbedingungen für Tester von Anwalt/Vorlage prüfen lassen → [[Schutz von Idee und App]] (Maßnahme 4)
+- [ ] [[Zählerschrank-Check]]: Termin Anwalt (IT-/Arbeitsrecht) + Steuerberater: Arbeitgeber-Frage (Idee/Code/Nebentätigkeit/Wettbewerb), Arbeitsvertrag mitbringen, Kosten der Erstberatung erfragen → [[Schutz von Idee und App]] Abschnitt 4
+- [ ] [[Zählerschrank-Check]]: Demo und Marketing prüfen: keine Regel-Tabelle öffentlich zeigen (nur Beispiel-Ergebnisse) → [[Schutz von Idee und App]] (Maßnahme 2)
 - [ ] [[Zählerschrank-Check]]: QR-Codes der 3 Druckvorlagen mit dem Handy testen, dann drucken → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Instagram vorbereiten: Impressum-Link (hängt an [[Rechtliches]]), Canva-Posts 1–3 auf „Zählerklar“ umstellen, Posts 1–10 fachlich gegenlesen → [[Instagram-Posts 1–10]]
 - [ ] [[Zählerschrank-Check]]: Eigene Fotos echter Zählerschränke für Rätsel-Posts sammeln (ohne Adresse, Namen, Zählernummer)
