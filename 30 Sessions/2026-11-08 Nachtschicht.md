@@ -6,7 +6,7 @@ datum: 2026-11-08
 
 **Ziel:** Das Schutzkonzept „Idee und App vor Diebstahl schützen“ für [[Zählerschrank-Check]] als Wissensnotiz schreiben (Aufgabe aus [[Aufgaben]], nur Vault, kein Code).
 
-**Ergebnis:** [[Schutz von Idee und App]] mit sechs Abschnitten (schützbar in DE, technischer Befund, Verträge, Arbeitgeber-Frage, Schutz durch Tempo, Maßnahmenliste). Wichtigster Befund: Das Regelwerk (`web/src/regeln.json`, `regelwerk.ts`) wird ins Bundle gebaut und liegt damit offen beim Nutzer. Fünf Folgeaufgaben unter „Als Nächstes“ angelegt, darunter „Regelwerk serverseitig“ als Code-Aufgabe für eine spätere Nachtschicht. Code-Repo unverändert, dort kein PR. PR (Vault): siehe Aufgaben-Zeile.
+**Ergebnis:** [[Schutz von Idee und App]] mit sechs Abschnitten (schützbar in DE, technischer Befund, Verträge, Arbeitgeber-Frage, Schutz durch Tempo, Maßnahmenliste). Wichtigster Befund: Das Regelwerk (`web/src/regeln.json`, `regelwerk.ts`) wird ins Bundle gebaut und liegt damit offen beim Nutzer. Fünf Folgeaufgaben unter „Als Nächstes“ angelegt, darunter „Regelwerk serverseitig“ als Code-Aufgabe für eine spätere Nachtschicht. Code-Repo unverändert, dort kein PR. PR (Vault): https://github.com/Reacher23012/Unternehmen-Vault/pull/35
 
 **Annahmen:** Rechtslage aus Modellwissen, nicht online geprüft; alle unsicheren Punkte mit ⚖️ „vom Anwalt prüfen lassen“ markiert. Gebühren (Marke ca. 290 €) vor Anmeldung prüfen.
 
