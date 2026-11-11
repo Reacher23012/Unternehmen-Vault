@@ -6,7 +6,7 @@ datum: 2026-11-11
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ für [[Zählerschrank-Check]] schreiben (nur Vault, kein Code geändert).
 
-**Ergebnis:** PRLINK
+**Ergebnis:** https://github.com/Reacher23012/Unternehmen-Vault/pull/38
 - Neue Notiz [[Schutz von Idee und App]]: Schutzmöglichkeiten in Deutschland, technischer Befund, Verträge, Arbeitgeber-Frage, Tempo-Schutz, priorisierte Maßnahmenliste.
 - **Befund:** Das gesamte Regelwerk (`regeln.json`, `bewerte()` in `regelwerk.ts`, aufgerufen aus `main.ts`) wird ins App-Bundle gebaut und läuft im Browser. Nach Livegang wäre es für jeden lesbar. Lösung: Auswertung serverseitig in der Edge Function.
 - [[Aufgaben]]: 4 neue Zeilen unter „Als Nächstes“ (u. a. Code-Aufgabe „Regelwerk serverseitig“), Aufgabe selbst mit „PR offen“ markiert, nicht abgehakt.
