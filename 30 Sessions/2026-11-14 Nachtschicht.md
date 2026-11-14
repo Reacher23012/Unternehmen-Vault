@@ -6,7 +6,7 @@ datum: 2026-11-14
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ für [[Zählerschrank-Check]] schreiben (nur Vault, kein Code geändert).
 
-**Ergebnis:** Neue Notiz [[Schutz von Idee und App]] (PR: PRLINK).
+**Ergebnis:** Neue Notiz [[Schutz von Idee und App]] (PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/41).
 - Idee nicht schützbar; Code per Urheberrecht automatisch, Name per DPMA-Marke (ca. 290 €), Patent nicht sinnvoll.
 - **Technischer Befund:** `web/src/regeln.json` und die Entscheidungslogik (`regelwerk.ts`) werden ins Bundle gebaut, das ganze Regelwerk liegt beim Nutzer offen. Lösung skizziert: Route `POST /bewerte` in der Edge Function.
 - Verträge (Spielregeln für Tester, Nutzungsbedingungen mit Verbot von Reverse Engineering, Login) und Arbeitgeber-Frage als offene Frage für Anwalt markiert.
