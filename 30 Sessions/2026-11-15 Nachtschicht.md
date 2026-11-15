@@ -10,7 +10,7 @@ datum: 2026-11-15
 - Neue Notiz [[Schutz von Idee und App]]: schützbar ist der Code (Urheberrecht) und der Name (Marke, ca. 290 €), das Regelwerk nur mit Geheimhaltungsmaßnahmen, die Idee gar nicht, Patent nicht empfohlen.
 - **Technischer Befund bestätigt:** `regeln.json` + `regelwerk.ts` werden im Browser-Bundle ausgeliefert, der Zugangscode schützt nur die API. Lösung skizziert: `POST /bewerte` in der Edge Function.
 - Vier neue Aufgaben in [[Aufgaben]] („Als Nächstes“), darunter die Code-Aufgabe „Regelwerk serverseitig“ für eine spätere Nachtschicht.
-- Vault-PR: PRLINK. Kein Code-PR (kein Code geändert).
+- Vault-PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/42. Kein Code-PR (kein Code geändert).
 - Annahmen: Anstellung im Elektrohandwerk laut Aufgabentext; Arbeitsvertrag unbekannt. Gebühren und Rechtsnormen aus dem Gedächtnis, nicht live geprüft → vor Verwendung prüfen.
 
 **Offen:**
