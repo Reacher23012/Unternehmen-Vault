@@ -57,6 +57,9 @@ Nach [[Ideen-System]] · Geldmodelle: [[Geldmodelle für KI-Ideen]]
 ## Go/No-Go
 10 von 15 Kollegen haben das Problem mind. monatlich · 5 zahlen ≥ 30 €/Monat · Trefferquote ≥ 85 % bei 20 Fällen · 100 Wartelisten-Einträge in 4 Wochen. **3 von 4 → MVP bauen**, sonst Wissen als Schulung/Checkliste verkaufen.
 
+## Schutz von Idee und App (15.11.2026, Nachtschicht)
+Analyse steht: [[Schutz von Idee und App]]. Kernbefund: **Das Regelwerk (26 Regeln samt Logik) wird ins App-Bundle gebaut und liegt damit offen im Browser**, sobald die App ohne Login gehostet wird. Bis dahin kein Handlungsdruck; vor Livegang/Test durch Kollegen: Login, NDA, Nutzungsbedingungen, Regelauswertung serverseitig (neue Aufgaben in [[Aufgaben]]). Offene Frage für Anwalt: Rechte/Wettbewerb bei Anstellung im Elektrohandwerk. Vorrang haben weiter die Gespräche. → [[2026-11-15 Nachtschicht]]
+
 ## Nächster Schritt
 **03.10. (abends):** Das Marketing-Material steht: 3 Druckvorlagen, Instagram-Posts 1–10, WhatsApp-Business-Texte und das Anschreiben an die Handwerkskammern → [[Direktansprache]], [[Instagram-Posts 1–10]], [[Anschreiben Handwerkskammern]]. Vor dem Druck: QR-Codes testen und den Namen prüfen. Vorrang haben weiter die Gespräche. → [[2026-10-03 Zählerklar – Sicherheit, Name, Marketing-Material]]
 
