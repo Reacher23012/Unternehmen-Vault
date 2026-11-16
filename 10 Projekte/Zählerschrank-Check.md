@@ -31,6 +31,9 @@ Ein Elektriker fotografiert einen Zählerschrank, und die App sagt ihm, welche M
 | Instagram (Phase 2) | 3 Posts in Canva, Bildtexte fertig, Konto fehlt → [[Instagram]] |
 | Validierung | 0 Fälle, 0 Gespräche, 0 Einträge → [[Validierung & Go-No-Go]], Leitfaden steht → [[Gesprächsleitfaden]] |
 
+## Schutz von Idee und App (16.11.2026, Nachtschicht)
+Analyse in [[Schutz von Idee und App]]: Idee nicht schützbar, Name per DPMA-Marke, Code per Urheberrecht. **Befund:** Das ganze Regelwerk (`regeln.json`) liegt im ausgelieferten App-Bundle und ist ohne Zugangscode lesbar → vor öffentlichem Hosting serverseitig verlagern (neue Aufgabe). **Offene Rechtsfrage:** Rechte an Idee/Code bei Anstellung im Elektrohandwerk (§ 69b UrhG, Nebentätigkeit) → Anwalt, vor Livegang. Der Vorsprung liegt vor allem in Tempo, Netzwerk und Fall-Daten.
+
 ## Weitere Zielgruppen (Hypothesen, 04.10.2026)
 Idee: nicht nur Elektriker, sondern auch **Hauseigentümer** und **SHK-Betriebe**. Der Kunde weiß vorher, was am Kasten ansteht, und spricht den Elektriker mit einer Mängelliste an.
 
