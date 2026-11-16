@@ -6,7 +6,7 @@ datum: 2026-11-16
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Notiz erarbeiten (nur Vault, kein Code geändert).
 
-**Ergebnis:** [[Schutz von Idee und App]] geschrieben (PR: PRLINK). Kernpunkte:
+**Ergebnis:** [[Schutz von Idee und App]] geschrieben (PR: https://github.com/Reacher23012/unternehmen-vault/pull/43). Kernpunkte:
 - Idee nicht schützbar; Code per Urheberrecht, Name per DPMA-Marke, Geheimnisschutz nur mit angemessenen Maßnahmen. Patent: nicht sinnvoll.
 - **Technischer Befund:** `regeln.json` liegt im öffentlichen App-Bundle; der `APP_CODE` schützt nur die Edge Function. Lösung skizziert (Auswertung serverseitig), als eigene Code-Aufgabe in [[Aufgaben]] angelegt.
 - Arbeitgeber-Frage als offene Frage für Anwalt/Steuerberater formuliert (Checkliste).
