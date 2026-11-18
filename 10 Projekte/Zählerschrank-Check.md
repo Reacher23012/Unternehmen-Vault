@@ -31,6 +31,9 @@ Ein Elektriker fotografiert einen Zählerschrank, und die App sagt ihm, welche M
 | Instagram (Phase 2) | 3 Posts in Canva, Bildtexte fertig, Konto fehlt → [[Instagram]] |
 | Validierung | 0 Fälle, 0 Gespräche, 0 Einträge → [[Validierung & Go-No-Go]], Leitfaden steht → [[Gesprächsleitfaden]] |
 
+## Schutz von Idee und App (18.11.2026, Nachtschicht)
+Analyse steht: [[Schutz von Idee und App]]. Kernbefund: **Das gesamte Regelwerk steckt im Browser-Bundle** (`regeln.json` + `regelwerk.ts`) und ist damit nicht geheim, sobald die App öffentlich ist. Lösung: Regelauswertung in die Edge Function (neue Code-Aufgabe). Dazu: Tester-Geheimhaltung, Nutzungsbedingungen, Login, Arbeitgeber-Frage klären (Anwalt), Name als Marke erst nach Recherche. Realistischer Schutz bleibt Tempo, Netzwerk und Falldaten.
+
 ## Weitere Zielgruppen (Hypothesen, 04.10.2026)
 Idee: nicht nur Elektriker, sondern auch **Hauseigentümer** und **SHK-Betriebe**. Der Kunde weiß vorher, was am Kasten ansteht, und spricht den Elektriker mit einer Mängelliste an.
 
