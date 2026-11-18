@@ -6,7 +6,7 @@ datum: 2026-11-18
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz schreiben (nur Vault, kein Code).
 
-**Ergebnis:** [[Schutz von Idee und App]] mit den sechs geforderten Teilen. PR: PRLINK
+**Ergebnis:** [[Schutz von Idee und App]] mit den sechs geforderten Teilen. PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/45
 - Befund bestätigt: `regeln.json` und `regelwerk.ts` sind im Web-Bundle (Import in `main.ts`/`demo.ts`), das ganze Regelwerk liegt beim Nutzer. Edge Function hat bisher nur `/analyse` und Fall-Routen.
 - Neue Aufgaben unter „Als Nächstes“ in [[Aufgaben]]: Regelwerk serverseitig (Code), Arbeitsvertrag prüfen, Tester-Vereinbarung, Nutzungsbedingungen.
 - Projektnotiz [[Zählerschrank-Check]] ergänzt. Kein Code-Repo-PR, weil die Aufgabe ausdrücklich „kein Code ändern“ vorgibt.
