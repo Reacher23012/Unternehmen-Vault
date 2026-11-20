@@ -62,6 +62,8 @@ Nach [[Ideen-System]] · Geldmodelle: [[Geldmodelle für KI-Ideen]]
 
 **03.10.:** 3 Gespräche mit Kollegen für den 04.10. vereinbart → Ergebnisse je Gespräch als Notiz aus `90 Vorlagen/Gespräch`, Zeile in der Auswertung im [[Gesprächsleitfaden]].
 
+**20.11. (Nachtschicht):** Schutzkonzept steht → [[Schutz von Idee und App]]. Kernbefund: Das Regelwerk liegt komplett im App-Bundle (kopierbar); Lösung „serverseitig auswerten“ ist als Code-Aufgabe angelegt, vor öffentlichem Livegang umsetzen. Arbeitgeber-Frage (Wem gehört die Idee?) ist offen für den Anwalt. → [[2026-11-20 Nachtschicht]]
+
 **Ideen-Check 02.10.:** Die Phase „Validierung“ stimmt nur formal: Die Kriterien stehen, gemessen ist aber noch nichts. Seit dem 29.09. ist im Vault kein Schritt abgehakt. Alle sechs „Jetzt“-Aufgaben sind Infrastruktur (Schlüssel, Mail, Recht, Hosting, Instagram), keine davon liefert Daten. **Der wichtigste Schritt: bis 09.10. fünf Gespräche mit Kollegen** (wie oft, wie lange dauert's heute, würdest du 30 €/Monat zahlen, magst du mittesten?). Ergebnisse unter [[Validierung & Go-No-Go]] eintragen. Das braucht keinen Code und deckt 2 der 4 Kriterien ab. → [[2026-10-02 Ideen-Check]]
 
 1. **30.09., 20 Uhr:** Anthropic-API-Schlüssel + `APP_CODE` in Supabase eintragen → Verbindungstest (Erinnerung im Google Kalender)
