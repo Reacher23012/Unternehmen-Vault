@@ -6,7 +6,7 @@ datum: 2026-11-21
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz schreiben (nur Vault, kein Code geändert).
 
-**Ergebnis:** [[Schutz von Idee und App]] – Analyse (keine Rechtsberatung) zu Schutzmöglichkeiten, technischem Befund, Verträgen, Arbeitgeber-Frage, Tempo-Schutz und priorisierter Maßnahmenliste. PR: siehe Pull-Request-Link in [[Aufgaben]].
+**Ergebnis:** [[Schutz von Idee und App]] – Analyse (keine Rechtsberatung) zu Schutzmöglichkeiten, technischem Befund, Verträgen, Arbeitgeber-Frage, Tempo-Schutz und priorisierter Maßnahmenliste. PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/48.
 - **Befund:** `web/src/regeln.json` und die Regellogik stecken im ausgelieferten Bundle (`regelwerk.ts` ← `main.ts`); das Regelwerk ist für jeden Nutzer im Browser auslesbar. Das schwächt auch den Geschäftsgeheimnis-Schutz. Lösung skizziert: Auswertung in die Edge Function, aber Konflikt mit der bisherigen Offline-/Funkloch-Fähigkeit.
 - **Neue Aufgaben** unter „Als Nächstes“: Repo-Sichtbarkeit prüfen, Arbeitsvertrag lesen, Testbedingungen entwerfen, Code-Aufgabe „Regelwerk serverseitig“.
 - **Annahmen:** Dass der Nutzer angestellt ist, steht nicht im Vault – die Arbeitgeber-Frage ist deshalb bedingt formuliert. Gebührenangaben (DPMA ca. 290 €) aus dem Gedächtnis, ohne Webprüfung; vor Nutzung nachsehen. Aufgabe in [[Aufgaben]] nicht abgehakt (erst nach Merge).
