@@ -10,7 +10,7 @@ datum: 2026-11-22
 - Neue Notiz [[Schutz von Idee und App]]: Schutzmöglichkeiten in Deutschland (Idee nicht schützbar; Code Urheberrecht; Marke DPMA; Regelwerk nur als Geschäftsgeheimnis mit Maßnahmen; Patent unrealistisch), Verträge, Arbeitgeber-Frage, Tempo/Daten, priorisierte Maßnahmenliste mit Kosten.
 - **Technischer Befund bestätigt:** `web/src/regelwerk.ts` und `web/src/regeln.json` (26 Regeln mit Bedingung im Klartext und Fundstelle) landen im Browser-Bundle; der Zugangscode schützt sie nicht. Lösungsskizze: `POST /bewerte` in der Edge Function.
 - In [[Aufgaben]] fünf Folgeaufgaben unter „Als Nächstes“ angelegt, darunter die Code-Aufgabe „Regelwerk serverseitig“ als eigene Zeile für eine spätere Nachtschicht.
-- Projektnotiz ergänzt. Pull Request: siehe Anhang an die Aufgabe in [[Aufgaben]].
+- Projektnotiz ergänzt. Pull Request: https://github.com/Reacher23012/Unternehmen-Vault/pull/49
 - Annahmen: Du bist (auch) angestellt im Elektrohandwerk (im Vault nicht belegt); Kosten sind Größenordnungen aus dem Gedächtnis; Rechtsaussagen sind Orientierung, vom Anwalt prüfen lassen.
 
 **Offen (für dich):**
