@@ -17,6 +17,11 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: 20 reale Schränke mit der App erfassen
 
 ## Als Nächstes
+- [ ] [[Zählerschrank-Check]]: **Arbeitsvertrag prüfen** (Nebentätigkeit, Wettbewerb, Erfindungen, Verschwiegenheit) und klären, woher die Westnetz-Schulung (09/2025) stammt; danach Anwalts-Erstgespräch bündeln (Arbeitgeber-Frage, NDA, Nutzungsbedingungen, Rechtstexte) → [[Schutz von Idee und App]]
+- [ ] [[Zählerschrank-Check]]: **Code – Regelwerk serverseitig:** neue Route `POST /bewerte` in `supabase/functions/api/index.ts` (hinter Zugangscode), `regelwerk.ts` + `regeln.json` in die Function verlegen, App-Bundle ohne Regeln (nur Ergebnis, ausgelöste Regeln mit Maßnahme + Fundstelle, offene Punkte, Messkonzept); Tests bleiben grün, Demo-Build mit Beispieldaten weiter lauffähig; vor Netlify-Livegang → [[Schutz von Idee und App#2. Technischer Befund: Regelwerk liegt im Browser]]
+- [ ] [[Zählerschrank-Check]]: Entwurf Nutzungsbedingungen (Test) + Kurz-NDA für Tester (Text im Vault, danach vom Anwalt prüfen) → [[Schutz von Idee und App#3. Verträge und Zugang]]
+- [ ] [[Zählerschrank-Check]]: GitHub-Repos auf „privat“ prüfen, Demo-Artifact nicht weitergeben; Instagram-Posts 1–10 auf „keine Regelwerk-Logik“ gegenlesen
+- [ ] [[Zählerschrank-Check]]: Login je Tester statt `APP_CODE` + Rate-Limit **vorziehen vor den Kollegen-Test** (steht noch unter „Irgendwann“)
 - [ ] [[Zählerschrank-Check]]: QR-Codes der 3 Druckvorlagen mit dem Handy testen, dann drucken → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Instagram vorbereiten: Impressum-Link (hängt an [[Rechtliches]]), Canva-Posts 1–3 auf „Zählerklar“ umstellen, Posts 1–10 fachlich gegenlesen → [[Instagram-Posts 1–10]]
 - [ ] [[Zählerschrank-Check]]: Eigene Fotos echter Zählerschränke für Rätsel-Posts sammeln (ohne Adresse, Namen, Zählernummer)
