@@ -6,7 +6,7 @@ datum: 2026-11-23
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ als Wissensnotiz schreiben (nur Vault, kein Code geändert).
 
-**Ergebnis:** [[Schutz von Idee und App]] mit sechs Teilen (Schutzfähigkeit in Deutschland, technischer Befund, Verträge, Arbeitgeber-Frage, Schutz durch Tempo, priorisierte Maßnahmen). PR: siehe [[Aufgaben]] (Zeile „Schutzkonzept“).
+**Ergebnis:** [[Schutz von Idee und App]] mit sechs Teilen (Schutzfähigkeit in Deutschland, technischer Befund, Verträge, Arbeitgeber-Frage, Schutz durch Tempo, priorisierte Maßnahmen). PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/50 (siehe auch [[Aufgaben]]).
 - **Befund bestätigt:** `regeln.json` und die Auswertung liegen im App-Bundle; der Zugangscode schützt nur die Routen der Edge Function, nicht die statischen Dateien. Risiko eher mittel/gering, solange es keine Kunden gibt; der Umbau kostet Offline-Fähigkeit.
 - Neue Aufgaben unter „Als Nächstes“ in [[Aufgaben]]: Arbeitsvertrag lesen und Erstberatung, Code-Aufgabe „Regelwerk serverseitig“ (eigene Zeile für eine spätere Nachtschicht), Nutzungsbedingungen-Entwurf.
 - Annahmen: Gebühren (DPMA ca. 290 €, Erstberatung 100–250 €) und Paragraphen aus dem Gedächtnis, deshalb als „prüfen“ markiert. Ob eine Anstellung besteht, steht nicht im Vault, deshalb nur als offene Frage formuliert.
