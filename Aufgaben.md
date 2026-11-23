@@ -17,6 +17,9 @@ typ: aufgaben
 - [ ] [[Zählerschrank-Check]]: 20 reale Schränke mit der App erfassen
 
 ## Als Nächstes
+- [ ] [[Zählerschrank-Check]]: **Arbeitsvertrag lesen** (Nebentätigkeit, Wettbewerbsverbot, Erfindungen/Arbeitsergebnisse), Frageliste für den Anwalt notieren, dann Erstberatung buchen (auch Gewerbe/Steuer) → [[Schutz von Idee und App#4. Arbeitgeber-Frage (offen, wichtigster Punkt) ⚖️]] *(vor Livegang mit Kollegen; Anwalt klären lassen)*
+- [ ] [[Zählerschrank-Check]]: **Code: Regelwerk serverseitig** – `regelwerk.ts` + `regeln.json` in die Edge Function (`POST /bewerte`), App bekommt nur Ergebnis + Fundstelle, Bundle ohne Regeltexte, Tests weiter grün; Demo-Build ohne volles Regelwerk. Nur Code im Repo, Einspielen macht der Nutzer. **Nach Go, nicht vor den Gesprächen**; Offline-Einbuße vorher klären → [[Schutz von Idee und App#2. Technischer Befund: Das Regelwerk liegt beim Nutzer im Browser]]
+- [ ] [[Zählerschrank-Check]]: Nutzungsbedingungen (kein Kopieren/Reverse Engineering, Klick-Zustimmung beim Freischalten) als Entwurf schreiben, vom Anwalt prüfen lassen → [[Schutz von Idee und App#3. Verträge und Zugang]]
 - [ ] [[Zählerschrank-Check]]: QR-Codes der 3 Druckvorlagen mit dem Handy testen, dann drucken → [[Direktansprache]]
 - [ ] [[Zählerschrank-Check]]: Instagram vorbereiten: Impressum-Link (hängt an [[Rechtliches]]), Canva-Posts 1–3 auf „Zählerklar“ umstellen, Posts 1–10 fachlich gegenlesen → [[Instagram-Posts 1–10]]
 - [ ] [[Zählerschrank-Check]]: Eigene Fotos echter Zählerschränke für Rätsel-Posts sammeln (ohne Adresse, Namen, Zählernummer)
