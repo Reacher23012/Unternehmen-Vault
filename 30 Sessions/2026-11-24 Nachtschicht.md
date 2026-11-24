@@ -6,7 +6,7 @@ datum: 2026-11-24
 
 **Ziel:** Schutzkonzept „Idee und App vor Diebstahl schützen“ für [[Zählerschrank-Check]] als Notiz schreiben (nur Vault, kein Code).
 
-**Ergebnis:** [[Schutz von Idee und App]] mit Schutzmöglichkeiten, technischem Befund (Regelwerk liegt im Browser-Bundle), Verträgen, Arbeitgeber-Frage, Tempo/Netzwerk/Daten und priorisierter Maßnahmenliste. Drei Folgeaufgaben in [[Aufgaben]] angelegt (darunter „Regelwerk serverseitig“ als eigene Code-Aufgabe). Kein Code geändert, daher kein Code-PR. Vault-PR: siehe PR zu diesem Zweig.
+**Ergebnis:** [[Schutz von Idee und App]] mit Schutzmöglichkeiten, technischem Befund (Regelwerk liegt im Browser-Bundle), Verträgen, Arbeitgeber-Frage, Tempo/Netzwerk/Daten und priorisierter Maßnahmenliste. Drei Folgeaufgaben in [[Aufgaben]] angelegt (darunter „Regelwerk serverseitig“ als eigene Code-Aufgabe). Kein Code geändert, daher kein Code-PR. Vault-PR: https://github.com/Reacher23012/Unternehmen-Vault/pull/51
 
 Annahmen: Anstellungsverhältnis des Nutzers unbekannt (als offene Frage markiert); Gebühren aus Erinnerung, nicht recherchiert.
 
